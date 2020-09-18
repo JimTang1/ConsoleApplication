@@ -15,6 +15,7 @@ namespace ConsoleApplication
             string name;
             string location;
 
+
             Console.WriteLine("please Enter your name: ");
             name = Console.ReadLine();
             Console.WriteLine("Where are you coming from: ");
