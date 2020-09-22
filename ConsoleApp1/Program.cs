@@ -56,6 +56,9 @@ namespace ConsoleApplication
             Console.WriteLine("The area of the glass is " +
             glassArea + " square metres");
 
+            //7
+            Console.WriteLine("Press any key to eixt");
+            Console.ReadKey();
 
         }
     }
